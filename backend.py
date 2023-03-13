@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "04cac3c79be497a3d0ef4a6b3ab8e5c7"
+API_KEY = "Your Api Key"
 
 
 def get_data(place, days):
